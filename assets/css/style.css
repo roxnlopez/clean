@@ -458,6 +458,44 @@ textarea.form-control {
 	text-align: center;
 }
 
+.phone {
+	height: 3em;
+	position: relative;
+	padding-left: 7em;
+	padding-right: 15px;
+	text-align: center!important
+}
+
+.number {
+	font-size: 2em;
+	font-weight: 600;
+	position: relative;
+	padding-left: 7em;
+	padding-right: 15px;
+	text-align: center!important
+}
+
+.email {
+	height: 3em;
+	position: relative;
+	padding-left: 2em;
+	padding-right: 15px;
+	text-align: center!important
+}
+
+.eaddress {
+	font-size: 2em;
+	font-weight: 600;
+	position: relative;
+	padding-left: 7em;
+	padding-right: 15px;
+	text-align: center!important
+}
+
+#contactHeader {
+	padding-bottom: 20px;
+}
+
 /* ---------------------------------------------- /*
  * Footer
 /* ---------------------------------------------- */
@@ -809,6 +847,7 @@ textarea.form-control {
 
 figure.effect-bubba {
 	background: #999;
+	border-radius: 3px;
 }
 
 figure.effect-bubba img {
