@@ -459,7 +459,7 @@ textarea.form-control {
 }
 
 .phone {
-	height: 3em;
+	height: 2em;
 	position: relative;
 	padding-left: 7em;
 	padding-right: 15px;
@@ -476,7 +476,7 @@ textarea.form-control {
 }
 
 .email {
-	height: 3em;
+	height: 2em;
 	position: relative;
 	padding-left: 2em;
 	padding-right: 15px;
