@@ -14,10 +14,10 @@ body {
 	overflow-x: hidden;
 }
 
-img {
+/*img {
 	max-width: 100%;
 	height: auto;
-}
+}*/
 
 a {
 	color: #E7746F;
@@ -355,6 +355,13 @@ textarea.form-control {
 .long-down {
 	margin-bottom: 40px;
 }
+
+#pac, #movies, #anima, #what {
+	width: 275px;
+	height: 200px;
+	padding: 10px;
+}
+
 
 /* ---------------------------------------------- /*
  * Home
