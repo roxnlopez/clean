@@ -11,5 +11,9 @@ require_once(__ROOT__.'/contact.php');
 	$subject = "Subject from $name";
 	$mailheader = "From: $email \r\n";
 	mail($recipient, $subject, $mailheader) or die("Error!");
+
 	echo "Thank You! I will get back to you as soon as possible!" . " -" . "<a href='./contact.php'> Back to site</a>";
+
+	echo '<script>console.log("Your stuff here");</script>';
 ?>
+
