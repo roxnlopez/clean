@@ -1,6 +1,6 @@
 <?php 
-define('__ROOT__', dirname(dirname(__FILE__))); 
-require_once(__ROOT__.'/contact.php'); 
+// define('__ROOT__', dirname(dirname(__FILE__))); 
+// require_once(__ROOT__.'/contact.php'); 
 ?> 
 
 <?php
@@ -14,6 +14,6 @@ require_once(__ROOT__.'/contact.php');
 
 	echo "Thank You! I will get back to you as soon as possible!" . " -" . "<a href='./contact.php'> Back to site</a>";
 
-	echo '<script>console.log("Your stuff here");</script>';
+	// echo '<script>console.log("Your stuff here");</script>';
 ?>
 
