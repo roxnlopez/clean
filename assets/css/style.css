@@ -456,7 +456,7 @@ textarea.form-control {
 	height: auto;
 }
 
-#html #css #bootstrap #js #jquery #slack #postgres #node #mongo #angular #github #gulp #react #php #wordpress{	
+#html #css #bootstrap #js #jquery #slack #postgres #node #mongo #angular #git #mocha #react #php #wordpress #typescript{	
 	height: 200px;
 	width: 200px;
 }
@@ -501,6 +501,10 @@ textarea.form-control {
 	padding-left: 7em;
 	padding-right: 15px;
 	text-align: center!important
+}
+
+a {
+	color: #666;
 }
 
 #contactHeader {
