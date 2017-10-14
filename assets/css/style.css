@@ -380,8 +380,9 @@ textarea.form-control {
 }
 
 .home-overlay {
-    background-color: rgba(44, 62, 80, 0.3);
+    background-color: rgba(0,0,0,0.2);
     background-image: url("../images/hanging-lake.jpeg");
+    opacity: 0.8;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -412,7 +413,8 @@ textarea.form-control {
 }
 
 .start {
-	font-family: Raleway, "Times New Roman", Times, sans-serif;
+	font-family: Raleway, sans-Serif;
+	text-shadow: 2px 2px #444;
 	font-size: 25px;
 	font-style: normal;
 	text-transform: none;
