@@ -259,7 +259,8 @@ textarea.form-control {
 
 .pfblock-header {
 	margin: 0 0 60px;
-	padding-right: 30px;
+	padding-right: 10px;
+	margin-left: -70px;
 }
 
 .pfblock-header-left {
@@ -293,7 +294,8 @@ textarea.form-control {
 }
 
 #worksLine {
-	width: 600px;
+	width: 800px;
+	margin-left: -265px;
 }
 
 #skillsLine {
@@ -415,11 +417,11 @@ textarea.form-control {
 .start {
 	font-family: Raleway, sans-Serif;
 	text-shadow: 2px 2px #444;
-	font-size: 25px;
+	font-size: 5em;
 	font-style: normal;
 	text-transform: none;
 	margin: 15px 0;
-	font-weight: 500;
+	font-weight: 700;
 }
 
 /* ---------------------------------------------- /*
@@ -469,11 +471,16 @@ textarea.form-control {
 	text-align: center;
 }
 
+.follow {
+	text-align: center;
+	margin-bottom: 10px;
+}
+
 .phone {
 	height: 2em;
 	position: relative;
-	padding-left: 7em;
 	padding-right: 15px;
+	margin-left: 220px;
 	text-align: center!important
 }
 
@@ -481,25 +488,25 @@ textarea.form-control {
 	font-size: 2em;
 	font-weight: 600;
 	position: relative;
-	padding-left: 7em;
 	padding-right: 15px;
+	margin-left: 220px;
 	text-align: center!important
 }
 
 .email {
 	height: 2em;
 	position: relative;
-	padding-left: 2em;
 	padding-right: 15px;
+	margin-left: -220px;
 	text-align: center!important
 }
 
-.eaddress {
+.eaddress{
 	font-size: 2em;
 	font-weight: 600;
 	position: relative;
-	padding-left: 7em;
 	padding-right: 15px;
+	margin-left: -220px;
 	text-align: center!important
 }
 
@@ -507,8 +514,30 @@ a {
 	color: #666;
 }
 
+.github {
+	height: 65px;
+	position: relative;
+	padding-right: 15px;
+	margin-left: 387px;
+	margin-top: 20px;
+	text-align: center!important
+}
+
+.linkedIn {
+	height: 50px;
+	position: relative;
+	padding-right: 15px;
+	margin-left: -370px;
+	margin-top: 25px;
+	text-align: center!important
+}
+
 #contactHeader {
-	padding-bottom: 20px;
+	padding-bottom: 10px;
+}
+
+#followMe {
+	margin-top: 55px;
 }
 
 /* ---------------------------------------------- /*
