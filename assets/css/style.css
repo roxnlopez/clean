@@ -293,14 +293,13 @@ textarea.form-control {
 	margin: 30px auto;
 }
 
-#worksLine {
+/*#worksLine {
 	width: 800px;
 	margin-left: -265px;
 }
-
+*/
 #skillsLine {
 	width: 650px;
-
 }
 
 .pfblock-icon {
@@ -308,7 +307,7 @@ textarea.form-control {
 }
 
 #icons {
-	padding-left: 9em;
+	margin-left: 113px;
 }
 
 .calltoaction *{
@@ -449,6 +448,14 @@ textarea.form-control {
 }
 
 /* ---------------------------------------------- /*
+ * Works
+/* ---------------------------------------------- */
+
+#portfolio {
+	margin-bottom: 11%;
+}
+
+/* ---------------------------------------------- /*
  * Skills
 /* ---------------------------------------------- */
 .container svg {
@@ -458,11 +465,13 @@ textarea.form-control {
 	height: auto;
 }
 
-#html #css #bootstrap #js #jquery #slack #postgres #node #mongo #angular #git #mocha #react #php #wordpress #typescript{	
-	height: 200px;
-	width: 200px;
+#svgblock{	
+	margin-left: 113px;
 }
 
+#worksSec {
+	margin-bottom: -30px;
+}
 /* ---------------------------------------------- /*
  * Contact
 /* ---------------------------------------------- */
