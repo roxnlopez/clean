@@ -424,7 +424,7 @@ textarea.form-control {
 }
 
 /* ---------------------------------------------- /*
- * Servise
+ * Service
 /* ---------------------------------------------- */
 
 
@@ -779,10 +779,78 @@ a {
  * Media
 /* ---------------------------------------------- */
 
+@media (max-width: 991px) {
+
+	.calltoaction {
+		text-align: center;
+	}
+
+	#contactInfo {
+		text-align: center;
+		margin: 0 0 30px;
+	}
+
+	#phoneBlock {
+		margin-left: -150px;
+	}
+
+	#emailBlock {
+		margin-right: -280px;
+	}
+
+	#followMe {
+		text-align: center;
+	}
+
+	.follow {
+		text-align: center;
+		margin: 0 0 30px;
+	}
+
+	#github {
+		margin-left: -375px;
+	}
+
+	#linkedin {
+		margin-right: -375px;
+	}
+
+}
+
 @media (max-width: 767px) {
 
 	.calltoaction {
 		text-align: center;
+	}
+
+	#contactInfo {
+		text-align: center;
+		margin: 0 0 30px;
+	}
+
+	#phoneBlock {
+		margin-left: -150px;
+	}
+
+	#emailBlock {
+		margin-right: -280px;
+	}
+
+	#followMe {
+		text-align: center;
+	}
+
+	.follow {
+		text-align: center;
+		margin: 0 0 30px;
+	}
+
+	#github {
+		margin-left: -375px;
+	}
+
+	#linkedin {
+		margin-right: -375px;
 	}
 
 }
@@ -798,6 +866,41 @@ a {
 		font-size: 24px;
 		margin: 0 0 30px;
 		letter-spacing: 3px;
+	}
+
+	a {
+		font-size: 34px;
+		margin: 0 0 30px;
+	}
+
+	#contactInfo {
+		text-align: center;
+		margin: 0 0 30px;
+	}
+
+	#phoneBlock {
+		margin-left: -150px;
+	}
+
+	#emailBlock {
+		margin-right: -280px;
+	}
+
+	#followMe {
+		text-align: center;
+	}
+
+	.follow {
+		text-align: center;
+		margin: 0 0 30px;
+	}
+
+	#github {
+		margin-left: -375px;
+	}
+
+	#linkedin {
+		margin-right: -375px;
 	}
 
 }
