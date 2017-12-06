@@ -784,6 +784,26 @@ a {
 		text-align: center;
 	}
 
+	#worksSec {
+		width: unset;
+	}
+
+	#pac {
+		margin-left: -150px;
+	}
+
+	#movies {
+		margin-left: -150px;
+	}
+
+	#what {
+		margin-left: -150px;
+	}
+
+	#anima {
+		margin-left: -150px;
+	}
+
 	#skillsBlock {
 		width: unset;
 	}
@@ -823,6 +843,30 @@ a {
 
 	.calltoaction {
 		text-align: center;
+	}
+
+	.intro {
+		margin-bottom: 125px;
+	}
+
+	#worksSec {
+		width: unset;
+	}
+
+	#pac {
+		margin-left: -150px;
+	}
+
+	#movies {
+		margin-left: -150px;
+	}
+
+	#what {
+		margin-left: -150px;
+	}
+
+	#anima {
+		margin-left: -150px;
 	}
 
 	#skillsBlock {
@@ -865,6 +909,30 @@ a {
 
 	.calltoaction {
 		text-align: center;
+	}
+
+	.intro {
+		margin-bottom: 125px;
+	}
+
+	#worksSec {
+		width: unset;
+	}
+
+	#pac {
+		margin-left: -150px;
+	}
+
+	#movies {
+		margin-left: -150px;
+	}
+
+	#what {
+		margin-left: -150px;
+	}
+
+	#anima {
+		margin-left: -150px;
 	}
 
 	#skillsBlock {
@@ -919,6 +987,34 @@ a {
 	a {
 		font-size: 34px;
 		margin: 0 0 30px;
+	}
+
+	.intro {
+		margin-bottom: 125px;
+	}
+
+	#worksSec {
+		width: unset;
+	}
+
+	#pac {
+		margin-left: -150px;
+		display: block;
+	}
+
+	#movies {
+		margin-left: -150px;
+		display: block;
+	}
+
+	#what {
+		margin-left: -150px;
+		display: block;
+	}
+
+	#anima {
+		margin-left: -150px;
+		display: block;
 	}
 
 	#skillsBlock {
