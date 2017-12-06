@@ -779,10 +779,54 @@ a {
  * Media
 /* ---------------------------------------------- */
 
+@media (max-width: 1199px) {
+	.calltoaction {
+		text-align: center;
+	}
+
+	#skillsBlock {
+		width: unset;
+	}
+
+	#contactInfo {
+		text-align: center;
+		margin: 0 0 30px;
+	}
+
+	#phoneBlock {
+		margin-left: -150px;
+	}
+
+	#emailBlock {
+		margin-right: -280px;
+	}
+
+	#followMe {
+		text-align: center;
+	}
+
+	.follow {
+		text-align: center;
+		margin: 0 0 30px;
+	}
+
+	#github {
+		margin-left: -375px;
+	}
+
+	#linkedin {
+		margin-right: -375px;
+	}
+}
+
 @media (max-width: 991px) {
 
 	.calltoaction {
 		text-align: center;
+	}
+
+	#skillsBlock {
+		width: unset;
 	}
 
 	#contactInfo {
@@ -821,6 +865,10 @@ a {
 
 	.calltoaction {
 		text-align: center;
+	}
+
+	#skillsBlock {
+		width: unset;
 	}
 
 	#contactInfo {
@@ -873,9 +921,17 @@ a {
 		margin: 0 0 30px;
 	}
 
+	#skillsBlock {
+		width: unset;
+	}
+
 	#contactInfo {
 		text-align: center;
 		margin: 0 0 30px;
+	}
+
+	#skillsBlock {
+		width: 760px;
 	}
 
 	#phoneBlock {
