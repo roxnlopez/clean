@@ -805,7 +805,8 @@ a {
 	}
 
 	#skillsBlock {
-		width: unset;
+		display: block;
+		margin: auto;
 	}
 
 	#contactInfo {
@@ -870,7 +871,8 @@ a {
 	}
 
 	#skillsBlock {
-		width: unset;
+		display: block;
+		margin: auto;
 	}
 
 	#contactInfo {
@@ -936,7 +938,8 @@ a {
 	}
 
 	#skillsBlock {
-		width: unset;
+		display: block;
+		margin: auto;
 	}
 
 	#contactInfo {
@@ -1018,16 +1021,13 @@ a {
 	}
 
 	#skillsBlock {
-		width: unset;
+		display: block;
+		margin: auto;
 	}
 
 	#contactInfo {
 		text-align: center;
 		margin: 0 0 30px;
-	}
-
-	#skillsBlock {
-		width: 760px;
 	}
 
 	#phoneBlock {
