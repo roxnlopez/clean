@@ -293,11 +293,6 @@ textarea.form-control {
 	margin: 30px auto;
 }
 
-/*#worksLine {
-	width: 800px;
-	margin-left: -265px;
-}
-*/
 #skillsLine {
 	width: 650px;
 }
@@ -357,9 +352,9 @@ textarea.form-control {
 	margin-bottom: 40px;
 }
 
-#pac, #movies, #anima, #what {
-	width: 275px;
-	height: 200px;
+#pac, #movies, #aguilar, #what {
+	width: 260px;
+	height: 250px;
 	padding: 10px;
 }
 
@@ -788,21 +783,22 @@ a {
 		width: unset;
 	}
 
-	#pac {
-		margin-left: -150px;
-	}
-
-	#movies {
-		margin-left: -150px;
+	/*#pac {
+		margin-left: -50px;
 	}
 
 	#what {
-		margin-left: -150px;
+		margin-top: 250px;
 	}
 
 	#anima {
-		margin-left: -150px;
+		margin-top: 430px
 	}
+
+	#aguilar {
+		margin-top: 10px;
+		margin-left: 785px;
+	}*/
 
 	#skillsBlock {
 		display: block;
@@ -850,25 +846,37 @@ a {
 		margin-bottom: 135px;
 	}
 
+	#beforeWorks {
+		display: inline-flex;
+	}
+
+	#myWorks {
+		text-align: center;
+	}
+
 	#worksSec {
 		width: unset;
 	}
 
-	#pac {
-		margin-left: -150px;
-	}
+	/*#pac {
+		margin-left: -225px;
 
-	#movies {
-		margin-left: -150px;
 	}
 
 	#what {
-		margin-left: -150px;
+		margin-left: 10px;
+		margin-top: 250px;
 	}
 
 	#anima {
-		margin-left: -150px;
+		margin-left: 10px;
+		margin-top: 450px
 	}
+
+	#aguilar {
+		margin-left: 10px;
+		margin-top: 650px;
+	}*/
 
 	#skillsBlock {
 		display: block;
@@ -917,25 +925,37 @@ a {
 		margin-bottom: 145px;
 	}
 
+	#beforeWorks {
+		display: inline-flex;
+	}
+
+	#myWorks {
+		text-align: center;
+	}
+
 	#worksSec {
 		width: unset;
 	}
 
-	#pac {
-		margin-left: -150px;
-	}
+	/*#pac {
+		margin-left: -225px;
 
-	#movies {
-		margin-left: -150px;
 	}
 
 	#what {
-		margin-left: -150px;
+		margin-left: 10px;
+		margin-top: 250px;
 	}
 
 	#anima {
-		margin-left: -150px;
+		margin-left: 10px;
+		margin-top: 450px
 	}
+
+	#aguilar {
+		margin-left: 10px;
+		margin-top: 650px;
+	}*/
 
 	#skillsBlock {
 		display: block;
@@ -996,28 +1016,32 @@ a {
 		margin-bottom: 145px;
 	}
 
+	#myWorks {
+		text-align: center;
+	}
+
 	#worksSec {
 		width: unset;
 	}
 
 	#pac {
-		margin-left: -150px;
-		display: block;
-	}
+		margin-left: -225px;
 
-	#movies {
-		margin-left: -150px;
-		display: block;
 	}
 
 	#what {
-		margin-left: -150px;
-		display: block;
+		margin-left: 10px;
+		margin-top: 250px;
 	}
 
 	#anima {
-		margin-left: -150px;
-		display: block;
+		margin-left: 10px;
+		margin-top: 450px
+	}
+
+	#aguilar {
+		margin-left: 10px;
+		margin-top: 650px;
 	}
 
 	#skillsBlock {
