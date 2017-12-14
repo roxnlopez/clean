@@ -881,6 +881,8 @@ a {
 	#skillsBlock {
 		display: block;
 		margin: auto;
+		margin-left: -140px;
+		margin-right: 65px;
 	}
 
 	#contactInfo {
@@ -960,6 +962,8 @@ a {
 	#skillsBlock {
 		display: block;
 		margin: auto;
+		margin-left: -140px;
+		margin-right: 65px;
 	}
 
 	#contactInfo {
@@ -1047,6 +1051,8 @@ a {
 	#skillsBlock {
 		display: block;
 		margin: auto;
+		margin-left: -140px;
+		margin-right: 65px;
 	}
 
 	#contactInfo {
